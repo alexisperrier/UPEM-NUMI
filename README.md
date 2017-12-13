@@ -10,10 +10,16 @@ Slack est une application de chat, tres utile pour échanger des fichiers, du co
 
 Notre workspace est [upem-numi.slack.com](https://upem-numi.slack.com). Clicker ici pour [recevoir une invitation](https://join.slack.com/t/upem-numi/shared_invite/enQtMjg1Njc5NDY5MDkwLTIxNzc0Nzk2NzRjOTNmOGExMTEyMDk1MmM5MjVkMTA2YTc2ZTMwMDhjZmFiMmEzMzRiMzA2NmQwZTAxYzJlNzk).
 
+## Google Drive
+
+Notre google drive est https://drive.google.com/drive/folders/11WGURpsNeoYAz9jMJ5Y6gt5VYOIALyi0
+
+Vous y trouverez la presentation du data sprint et des lectures conseillées
+
 
 ##  Github
 
-Github est une plateforme pour echanger et developper du code collaborativement.
+Github est une plateforme pour échanger et développer du code collaborativement.
 
 Tous le code sera mis sur github: [https://github.com/alexisperrier/UPEM-NUMI](https://github.com/alexisperrier/UPEM-NUMI)
 
