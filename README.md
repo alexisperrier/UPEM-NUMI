@@ -10,6 +10,16 @@ Slack est une application de chat, tres utile pour échanger des fichiers, du co
 
 Notre workspace est [upem-numi.slack.com](https://upem-numi.slack.com). Clicker ici pour [recevoir une invitation](https://join.slack.com/t/upem-numi/shared_invite/enQtMjg1Njc5NDY5MDkwLTIxNzc0Nzk2NzRjOTNmOGExMTEyMDk1MmM5MjVkMTA2YTc2ZTMwMDhjZmFiMmEzMzRiMzA2NmQwZTAxYzJlNzk).
 
+
+##  Github
+
+Github est une plateforme pour echanger et developper du code collaborativement.
+
+Tous le code sera mis sur github: [https://github.com/alexisperrier/UPEM-NUMI](https://github.com/alexisperrier/UPEM-NUMI)
+
+Si vous n'avez pas de profils github, c'est le moment de vous en creer un.
+
+
 ## Jupyter Notebook
 
 Nous travaillerons à partir de notebook jupyter (ipython) qui fournissent un environement de travail collaboratif en python à partir du navigateur.
