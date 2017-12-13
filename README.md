@@ -1,8 +1,14 @@
 # Data Sprint Topic Models
 
-Pour ce data sprint, nous utiliserons les outils suivants.
+Voici les outils que nous utiliserons pour ce data sprint
 
 Le mieux serait de les installer sur vos ordinateurs avant le debut du sprint pour ne pas perdre de temps le premier jours.
+
+## Slack
+
+Slack est une application de chat, tres utile pour échanger des fichiers, du code, ...
+
+Notre workspace est [upem-numi.slack.com](https://upem-numi.slack.com). Clicker ici pour [recevoir une invitation](https://join.slack.com/t/upem-numi/shared_invite/enQtMjg1Njc5NDY5MDkwLTIxNzc0Nzk2NzRjOTNmOGExMTEyMDk1MmM5MjVkMTA2YTc2ZTMwMDhjZmFiMmEzMzRiMzA2NmQwZTAxYzJlNzk).
 
 ## Jupyter Notebook
 
@@ -78,9 +84,3 @@ Et il faudra installer les package suivants avec
     install.packages( c('wordcloud', 'igraph', 'data.table'), dependencies = TRUE)
     install.packages( c("stringr", "RColorBrewer", "stringr"), dependencies = TRUE)
     install.packages( c("geometry", "Rtsne", "GetoptLong"), dependencies = TRUE )
-
-## Slack
-
-Slack est une application de chat, tres utile pour échanger des fichiers, du code, ...
-
-Notre workspace est [upem-numi.slack.com](https://upem-numi.slack.com). Clicker ici pour [recevoir une invitation](https://join.slack.com/t/upem-numi/shared_invite/enQtMjg1Njc5NDY5MDkwLTIxNzc0Nzk2NzRjOTNmOGExMTEyMDk1MmM5MjVkMTA2YTc2ZTMwMDhjZmFiMmEzMzRiMzA2NmQwZTAxYzJlNzk).
