@@ -8,6 +8,8 @@
 # install.packages( c("stringr", "RColorBrewer", "stringr"), dependencies = TRUE)
 # install.packages( c("geometry", "Rtsne", "GetoptLong"), dependencies = TRUE )
 
+
+# charger les packages suivants
 library('stringr')
 library('stm')
 library('stmBrowser')
@@ -19,4 +21,5 @@ library('data.table')
 library('SnowballC')
 library('GetoptLong')
 
+# formatter le print
 qq.options("cat_prefix" = function(x) format(Sys.time(), "\n[%H:%M:%S] "))
