@@ -5,7 +5,7 @@ Dans ce premier lab, nous allons travailler sur un corpus propre et structuré e
 
 Le corpus est composé de 30.000 paragraphes du journal Est Republicain de Mai a Septembre 1999 (fin pre-twitter).
 
-## Ce que l'on va voirx
+## Ce que l'on va étudier
 
 * Création de la matrice mots - documents
 * Nettoyage leger du texte
