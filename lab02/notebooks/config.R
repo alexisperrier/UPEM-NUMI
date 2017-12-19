@@ -30,7 +30,7 @@ s.save_envt     <- FALSE
 s.gridsearch    <- FALSE
 
 # Session: Limit number of rows in dataframe. 0 for no limit.
-s.max_rows      <- 10000
+s.max_rows      <- 5000
 
 # STM: Name of the content column in the input csv file
 s.text_feature  <- 'text'
