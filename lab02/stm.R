@@ -118,7 +118,6 @@ if (FALSE){
 
     labelTopics(fit, n=10, 38)
     # find docs that have the most topic 50
-
     which(fit$theta[,38] > 0.60)
 
 
