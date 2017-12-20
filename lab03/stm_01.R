@@ -84,7 +84,6 @@ docs  <- out$documents
 vocab <- out$vocab
 meta  <- out$meta
 
-
 # ------------------------------------------------------------------------------
 #  3) Topic modeling
 # ------------------------------------------------------------------------------
@@ -141,3 +140,26 @@ colSums( fit$theta)
 
 # Influence du klout
 stmBrowser(fit, data=out$meta, c('log_klout'), text="message", labeltype='frex')
+
+
+
+# ------------------------------------------------------------------------------
+#  Grid search
+# ------------------------------------------------------------------------------
+n_topics = seq(from = 10, to = 80, by = 2)
+
+gridsearch <- searchK(out$documents, out$vocab,
+                    K = n_topics,
+                    reportevery = 10,
+                    # emtol       = 1.0e-4,
+                    data = meta)
+
+plot(gridsearch)
+print(gridsearch)
+
+# Select the best number of topics that maximizes both exclusivity  and semantic coherence
+plot(gridsearch$results$exclus, gridsearch$results$semcoh)
+text(gridsearch$results$exclus, gridsearch$results$semcoh, labels=gridsearch$results$K, cex= 0.7, pos = 2)
+
+plot(gridsearch$results$semcoh, gridsearch$results$exclus)
+text(gridsearch$results$semcoh, gridsearch$results$exclus, labels=gridsearch$results$K, cex= 0.7, pos = 2)
