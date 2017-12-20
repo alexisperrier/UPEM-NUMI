@@ -97,6 +97,6 @@ Donc nous avons besoin de pourvoir travailler en R. Pour cela il nous faut insta
 Et il faudra installer les package suivants avec
 
     install.packages( c("stm", "tm", "splines", "stmBrowser"), dependencies = TRUE)
-    install.packages( c('wordcloud', 'igraph', 'data.table'), dependencies = TRUE)
-    install.packages( c("stringr", "RColorBrewer", "stringr"), dependencies = TRUE)
+    install.packages( c('wordcloud', 'igraph'), dependencies = TRUE)
+    install.packages( c("stringr", "RColorBrewer"), dependencies = TRUE)
     install.packages( c("geometry", "Rtsne", "GetoptLong"), dependencies = TRUE )
