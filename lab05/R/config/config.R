@@ -1,14 +1,14 @@
 # ----------------------------------------------------------------------------
 #  Data source created by the prepare.py script
 # ----------------------------------------------------------------------------
-s.source        <- 'fbget_stm_01'
+s.source        <- 'fbget_stm'
 s.experiment    <- '01'
 # ----------------------------------------------------------------------------
 #  Path and files
 # ----------------------------------------------------------------------------
-s.data_path     <- '/Users/alexis/amcp/memewar/data/'
-s.img_path      <- '/Users/alexis/amcp/memewar/R/images/'
-s.wd_path       <- '/Users/alexis/amcp/memewar/R'
+s.data_path     <- '/Users/alexis/amcp/upem/UPEM-NUMI/lab05/data/'
+s.img_path      <- '/Users/alexis/amcp/upem/UPEM-NUMI/lab05/R/'
+s.wd_path       <- '/Users/alexis/amcp/upem/UPEM-NUMI/lab05/R/'
 
 # Input File
 s.input_file    <- qq("@{s.data_path}@{s.source}.csv")
