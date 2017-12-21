@@ -1,0 +1,265 @@
+Topic 1 Top Words:
+     Highest Prob: muslim, religion, islam, people, muslims, christian, kill, god, terrorist, christians
+     FREX: religion, islam, muslims, muslim, christians, christianity, christian, allah, islamic, terrorist
+     Lift: allah, christians, christianity, religion, islam, muslims, muslim, bible, church, atheist
+     Score: allah, islam, religion, muslim, muslims, christians, christianity, islamic, atheist, terrorist
+Topic 2 Top Words:
+     Highest Prob: europe, germany, refugee, country, angelamerkel, people, sweden, european, happen, year
+     FREX: refugee, angelamerkel, europe, germany, sweden, migrant, european, germans, invasion, western
+     Lift: angelamerkel, migrant, refugee, sweden, europe, germany, invasion, european, syrian, germans
+     Score: angelamerkel, germany, refugee, europe, sweden, migrant, germans, european, country, invasion
+Topic 3 Top Words:
+     Highest Prob: crime, average, rate, population, child, city, murder, muslim, high, islam
+     FREX: average, crime, rate, population, abuse, city, gang, ideology, murder, community
+     Lift: average, crime, rate, gang, poverty, population, statistic, abuse, potential, criticize
+     Score: average, crime, rate, population, islam, ideology, murder, city, muslim, abuse
+Topic 4 Top Words:
+     Highest Prob: vote, sign, election, hillaryclinton, rig, voter, donaldtrump, fraud, people, voting
+     FREX: rig, sign, fraud, ballot, voter, voting, paper, machine, election, vote
+     Lift: ballot, fraud, rig, paper, machine, sign, voting, voter, constitutional, screen
+     Score: ballot, rig, vote, fraud, voter, sign, election, voting, paper, hillaryclinton
+Topic 5 Top Words:
+     Highest Prob: wall, border, mexico, mexican, build, work, people, mexicans, fence, pay
+     FREX: border, mexican, mexico, fence, wall, mexicans, brick, build, cross, southern
+     Lift: brick, fence, border, mexican, mexicans, southern, mexico, cross, secure, wall
+     Score: brick, wall, mexico, border, mexican, fence, mexicans, build, immigrant, illegal
+Topic 6 Top Words:
+     Highest Prob: canada, hope, leave, move, bye, brexit, liberal, britain, canadian, country
+     FREX: canada, bye, britain, brexit, move, canadian, leave, hope, promise, british
+     Lift: britain, canada, canadian, bye, brexit, british, england, move, pack, promise
+     Score: britain, canada, bye, brexit, canadian, mexico, move, leave, hope, british
+Topic 7 Top Words:
+     Highest Prob: georgesoros, timkaine, brotherhood, group, hillaryclinton, america, muslim, fund, senator, tie
+     FREX: timkaine, brotherhood, georgesoros, senator, appoint, warn, tie, board, letter, exchange
+     Lift: brotherhood, timkaine, georgesoros, senator, appoint, warn, exchange, commission, letter, pledge
+     Score: brotherhood, timkaine, georgesoros, commission, senator, appoint, warn, muslim, exchange, radical
+Topic 8 Top Words:
+     Highest Prob: donaldtrump, mikepence, people, money, president, business, million, talk, run, dollar
+     FREX: mikepence, billionaire, business, knee, dollar, ronaldreagan, billion, swamp, money, businessman
+     Lift: businessman, mikepence, billionaire, bankrupt, cabinet, ronaldreagan, knee, swamp, loan, celebrity
+     Score: businessman, donaldtrump, mikepence, president, business, money, billionaire, bankrupt, ronaldreagan, dollar
+Topic 9 Top Words:
+     Highest Prob: right, socialist, socialism, people, nationalism, left, wing, national, nationalist, political
+     FREX: socialism, socialist, nationalism, wing, nationalist, capitalism, alt, national, communism, movement
+     Lift: capitalism, nationalism, socialism, socialist, fascism, wing, communism, marxist, capitalist, nationalist
+     Score: capitalism, socialism, nationalism, socialist, alt, nationalist, right, altright, communism, wing
+Topic 10 Top Words:
+     Highest Prob: people, face, car, dude, bitch, work, funny, drink, feel, sad
+     FREX: car, drink, face, hit, taste, animal, shirt, walk, dude, ear
+     Lift: car, ear, autism, drink, taste, autistic, shirt, knock, nasty, petty
+     Score: car, autism, drink, face, autistic, ear, animal, shirt, taste, bitch
+Topic 11 Top Words:
+     Highest Prob: play, donaldtrump, game, card, use, pretty, shake, alpha, hand, pussy
+     FREX: card, play, game, alpha, shake, cast, effect, beard, beta, hair
+     Lift: card, alpha, game, beard, play, cast, shadow, actor, monster, shake
+     Score: card, play, game, alpha, donaldtrump, shake, cast, beard, beta, effect
+Topic 12 Top Words:
+     Highest Prob: illegal, drug, people, law, country, deport, criminal, legal, immigrant, citizen
+     FREX: drug, illegal, deport, legal, criminal, illegally, law, cartel, smoke, weed
+     Lift: cartel, drug, illegally, weed, smoke, deport, illegal, enforce, legal, legally
+     Score: cartel, drug, illegal, illegally, mexico, deport, law, immigrant, legal, criminal
+Topic 13 Top Words:
+     Highest Prob: pepe, harambe_gorilla, frog, meme, anime, symbol, rare, cartoon, hate, peace
+     FREX: pepe, frog, harambe_gorilla, cartoon, anime, rare, symbol, peace, normie, profile
+     Lift: cartoon, pepe, anime, frog, harambe_gorilla, rare, symbol, normie, draw, peace
+     Score: cartoon, pepe, harambe_gorilla, frog, anime, rare, symbol, meme, normie, kek
+Topic 14 Top Words:
+     Highest Prob: china, trade, sleep, chinese, north, korea, military, work, right, japan
+     FREX: china, chinese, trade, korea, sleep, north, japan, bottom, military, india
+     Lift: china, chinese, korea, japan, trade, north, sleep, india, japanese, technology
+     Score: china, chinese, korea, trade, sleep, north, japan, military, india, bottom
+Topic 15 Top Words:
+     Highest Prob: happy, christmas, music, song, hat, birthday, year, donaldtrump, red, feel
+     FREX: christmas, music, happy, birthday, song, gift, hat, celebrate, sing, red
+     Lift: christmas, music, birthday, happy, gift, sing, song, empty, season, celebrate
+     Score: christmas, happy, music, birthday, song, turkey, celebrate, gift, sing, hat
+Topic 16 Top Words:
+     Highest Prob: hillaryclinton, vote, husband, allow, cost, department, house, president, name, authority
+     FREX: husband, authority, department, attorney, consideration, cost, travel, resign, web, allow
+     Lift: consideration, attorney, resign, rights, department, reputation, authority, web, contract, travel
+     Score: consideration, husband, attorney, department, hillaryclinton, authority, cost, commission, web, rights
+Topic 17 Top Words:
+     Highest Prob: israel, jew, son, jewish, jews, ivankatrump, daughter, father, kid, people
+     FREX: israel, jew, jewish, son, ivankatrump, convert, daughter, jews, father, chelsea
+     Lift: convert, israel, jew, ivankatrump, jewish, chelsea, daughter, jews, vey, son
+     Score: convert, israel, jewish, jew, jews, ivankatrump, son, daughter, chelsea, father
+Topic 18 Top Words:
+     Highest Prob: donaldtrump, tedcruz, video, president, lie, die, health, run, hope, sick
+     FREX: tedcruz, health, medical, delegate, mirror, video, flip, sick, lie, van
+     Lift: delegate, tedcruz, medical, pump, mirror, health, flip, killer, hospital, collapse
+     Score: delegate, tedcruz, health, medical, president, video, mirror, pump, lie, van
+Topic 19 Top Words:
+     Highest Prob: space, safe, helicopter, ride, fly, earth, house, god, first, year
+     FREX: space, helicopter, ride, fly, safe, cat, earth, desert, sit, planet
+     Lift: desert, space, helicopter, cat, ride, fly, oil, universe, chair, safe
+     Score: desert, space, helicopter, ride, safe, cat, fly, earth, chess, universe
+Topic 20 Top Words:
+     Highest Prob: war, fight, alexjones, water, empire, enemy, force, shall, battle, army
+     FREX: alexjones, empire, filter, deus_vult, fight, water, battle, army, shall, enemy
+     Lift: deus_vult, filter, alexjones, combat, empire, wars, battle, army, crusade, kebab
+     Score: deus_vult, alexjones, filter, war, fight, empire, kebab, crusade, army, battle
+Topic 21 Top Words:
+     Highest Prob: hillaryclinton, berniesanders, debate, donaldtrump, dnc, campaign, lie, evil, money, pay
+     FREX: berniesanders, debate, dnc, hillaryclinton, endorse, corruption, campaign, corrupt, crooked, evil
+     Lift: dnc, berniesanders, donation, debate, scandal, donate, endorse, crooked, nomination, corruption
+     Score: dnc, hillaryclinton, berniesanders, debate, endorse, email, campaign, nomination, donation, corrupt
+Topic 22 Top Words:
+     Highest Prob: hillaryclinton, email, people, leak, release, evidence, julianassange, child, week, conspiracy
+     FREX: leak, email, julianassange, release, conspiracy, wikileaks, evidence, expose, drone, information
+     Lift: drone, julianassange, leak, wikileaks, reveal, pizza, ring, investigation, conspiracy, email
+     Score: drone, julianassange, leak, email, wikileaks, release, conspiracy, hillaryclinton, evidence, investigation
+Topic 23 Top Words:
+     Highest Prob: country, america, world, war, united, states, change, nation, elect, rest
+     FREX: america, country, united, states, world, embrace, nation, elect, rest, change
+     Lift: embrace, united, states, america, country, constitution, world, nation, elect, effort
+     Score: embrace, country, america, world, united, states, war, elect, nation, change
+Topic 24 Top Words:
+     Highest Prob: love, watch, donaldtrump, funny, video, meme, tag, laugh, god, die
+     FREX: farage, austin, oliver, omfg, noah, tag, xdd, ethan, van, morgan
+     Lift: farage, morgan, connor, dylan, christopher, brandon, omfg, oliver, der, nick
+     Score: farage, love, watch, video, tag, van, austin, funny, nigel, omfg
+Topic 25 Top Words:
+     Highest Prob: maga, donaldtrump, win, love, poll, god, energy, florida, hillaryclinton, rally
+     FREX: maga, poll, florida, energy, rally, michigan, victory, tonight, win, early
+     Lift: florida, maga, poll, michigan, rally, excited, tonight, folks, energy, league
+     Score: florida, maga, poll, donaldtrump, win, rally, energy, michigan, love, hillaryclinton
+Topic 26 Top Words:
+     Highest Prob: hitler, people, german, kill, nazi, million, germany, donaldtrump, jews, war
+     FREX: hitler, german, nazi, holocaust, jews, germany, nazis, million, germans, kill
+     Lift: german, hitler, holocaust, chamber, genocide, germans, nazi, stalin, nazis, jews
+     Score: german, hitler, germany, jews, nazi, holocaust, germans, kill, jewish, nazis
+Topic 27 Top Words:
+     Highest Prob: eat, member, donaldtrump, taco, bowl, love, racist, hispanics, food, people
+     FREX: taco, bowl, eat, hispanics, member, chicken, latino, food, hispanic, moon
+     Lift: hispanics, bowl, taco, chicken, eat, latino, moon, member, food, hispanic
+     Score: hispanics, taco, bowl, eat, member, latino, chicken, hispanic, food, donaldtrump
+Topic 28 Top Words:
+     Highest Prob: tax, pay, money, control, free, plan, year, dollar, government, federal
+     FREX: tax, birth, federal, pay, income, dollar, plan, debt, return, money
+     Lift: income, tax, birth, debt, federal, taxpayer, propose, return, dollar, rate
+     Score: income, tax, pay, money, birth, federal, debt, dollar, taxpayer, rate
+Topic 29 Top Words:
+     Highest Prob: donaldtrump, god, president, emperor, love, hail, page, thank, first, mankind
+     FREX: emperor, president, god, mankind, hail, donaldtrump, heresy, daddy, bless, lord
+     Lift: mankind, heresy, emperor, hail, president, immortal, god, heretic, savior, throne
+     Score: mankind, donaldtrump, president, god, emperor, hail, heresy, daddy, page, stump
+Topic 30 Top Words:
+     Highest Prob: gay, people, believe, abortion, marriage, right, change, fact, lgbt, life
+     FREX: gay, marriage, abortion, lgbt, climate, homosexual, community, global, argument, science
+     Lift: marriage, gay, abortion, lgbt, homosexual, climate, homophobic, lesbian, science, global
+     Score: marriage, gay, abortion, lgbt, climate, homosexual, mikepence, global, community, science
+Topic 31 Top Words:
+     Highest Prob: cuck, miloyiannopoulos, right, page, alt, altright, movement, markzuckerberg, people, left
+     FREX: miloyiannopoulos, cuck, alt, markzuckerberg, altright, movement, admin, faggot, page, beta
+     Lift: miloyiannopoulos, markzuckerberg, admin, cuck, altright, alt, faggot, beta, movement, normie
+     Score: miloyiannopoulos, cuck, alt, altright, markzuckerberg, movement, page, admin, beta, nationalist
+Topic 32 Top Words:
+     Highest Prob: work, job, people, pay, company, money, business, wage, buy, cost
+     FREX: company, wage, insurance, minimum, price, job, afford, increase, business, worker
+     Lift: minimum, wage, insurance, company, afford, price, industry, profit, employee, increase
+     Score: minimum, wage, insurance, company, job, climate, cost, increase, work, pay
+Topic 33 Top Words:
+     Highest Prob: france, marinelepen, french, woman, australia, right, country, party, minister, forget
+     FREX: marinelepen, france, french, minister, australia, australian, polish, brazil, prime, poland
+     Lift: minister, marinelepen, france, french, polish, australian, brazil, australia, prime, poland
+     Score: minister, marinelepen, france, french, polish, australian, australia, germany, poland, europe
+Topic 34 Top Words:
+     Highest Prob: woman, girl, kid, fat, child, pussy, year, boy, talk, rap
+     FREX: girl, fat, woman, rap, assault, rape, sexual, grab, pussy, kid
+     Lift: model, sexually, girl, sexual, women, gross, fat, assault, rap, chick
+     Score: model, woman, girl, fat, sexual, assault, kid, rape, grab, rap
+Topic 35 Top Words:
+     Highest Prob: news, medium, fake, post, cnn, people, article, facebook, source, media
+     FREX: news, fake, cnn, article, medium, network, media, source, facebook, google
+     Lift: network, dishonest, outlet, cnn, news, fox, fake, journalist, article, bias
+     Score: network, news, fake, medium, cnn, article, source, media, outlet, report
+Topic 36 Top Words:
+     Highest Prob: gender, people, mental, change, male, happen, use, disorder, transgender, world
+     FREX: gender, mental, disorder, transgender, male, identify, illness, personality, mentally, female
+     Lift: personality, disorder, gender, transgender, mental, illness, tumblr, identify, mentally, anger
+     Score: personality, gender, mental, disorder, transgender, illness, identify, male, tumblr, mentally
+Topic 37 Top Words:
+     Highest Prob: phone, donaldtrump, number, use, service, report, secret, book, attempt, code
+     FREX: phone, code, text, service, secret, number, assassination, cia, attempt, computer
+     Lift: phone, code, text, assassination, computer, secret, cia, governor, previous, useful
+     Score: phone, code, text, service, number, secret, assassination, endorse, cia, report
+Topic 38 Top Words:
+     Highest Prob: putin, russia, war, russian, russians, hacker, alqueda, leader, hack, world
+     FREX: putin, russia, russian, russians, hacker, hack, nato, alqueda, nuclear, war
+     Lift: putin, russia, russian, russians, nato, hacker, hack, stalin, nuclear, relation
+     Score: putin, russia, russian, russians, hacker, war, nato, hack, alqueda, stalin
+Topic 39 Top Words:
+     Highest Prob: vote, state, win, popular, people, electoral, california, hillaryclinton, college, donaldtrump
+     FREX: popular, electoral, california, state, recount, college, county, blue, vote, red
+     Lift: recount, electoral, county, popular, california, map, blue, college, texas, michigan
+     Score: recount, vote, electoral, california, popular, county, state, college, win, blue
+Topic 40 Top Words:
+     Highest Prob: barackobama, donaldtrump, president, love, try, liberal, big, tshirt, right, nice
+     FREX: barackobama, tshirt, horse, failure, president, create, disgust, coward, reelect, suppose
+     Lift: reelect, destructive, antiamerican, barackobama, tshirt, imbecile, entertainment, enslave, bow, failure
+     Score: reelect, barackobama, tshirt, president, antiamerican, donaldtrump, destructive, entertainment, enslave, horse
+Topic 41 Top Words:
+     Highest Prob: vote, donaldtrump, party, republican, libertarian, democrat, candidate, hillaryclinton, people, election
+     FREX: libertarian, republican, party, vote, democrat, candidate, republicans, independent, democrats, primary
+     Lift: register, libertarian, independent, republicans, republican, party, gop, johnson, nominee, democrat
+     Score: register, vote, libertarian, party, republican, democrat, donaldtrump, candidate, independent, hillaryclinton
+Topic 42 Top Words:
+     Highest Prob: hillaryclinton, low, energy, sad, mess, head, bitch, bill, old, poor
+     FREX: bill, mess, clap, low, energy, georgebush, hillaryclinton, clinton, select, prison
+     Lift: select, clap, bill, beer, clinton, pour, billclinton, witch, mess, nail
+     Score: select, hillaryclinton, clap, energy, low, bill, clinton, billclinton, georgebush, mess
+Topic 43 Top Words:
+     Highest Prob: wear, suicide, hillaryclinton, dress, selection, commit, deplorable, head, die, hide
+     FREX: suicide, wear, dress, selection, deplorable, commit, suit, natural, sack, hide
+     Lift: selection, dress, suicide, wear, sack, clothe, deplorable, natural, commit, suit
+     Score: selection, suicide, wear, dress, hillaryclinton, deplorable, commit, ivankatrump, sack, natural
+Topic 44 Top Words:
+     Highest Prob: meme, kek, god, praise, magic, post, brother, page, twitter, love
+     FREX: kek, magic, meme, praise, shitpost, twitter, memes, brother, madman, dank
+     Lift: shitposting, magic, shitpost, memes, kek, meme, praise, madman, pol, twitter
+     Score: shitposting, meme, kek, magic, praise, shitpost, twitter, memes, madman, god
+Topic 45 Top Words:
+     Highest Prob: white, racist, black, people, race, racism, skin, color, minority, liberal
+     FREX: white, black, racism, skin, racist, race, minority, color, privilege, racial
+     Lift: skin, racism, white, privilege, race, racist, black, racial, color, minority
+     Score: skin, white, racist, black, race, racism, minority, color, people, privilege
+Topic 46 Top Words:
+     Highest Prob: school, immigrant, illegal, english, people, class, language, college, rapist, love
+     FREX: school, language, english, immigrant, native, rapist, class, spanish, college, spell
+     Lift: spanish, language, native, grade, teacher, english, school, ancestor, rapist, student
+     Score: spanish, immigrant, rapist, school, native, language, english, college, illegal, legal
+Topic 47 Top Words:
+     Highest Prob: donaldtrump, support, supporter, people, hillaryclinton, hate, vote, right, hat, liberal
+     FREX: support, supporter, train, donaldtrump, welcome, opinion, hate, hat, friend, rally
+     Lift: support, aboard, supporter, bern, welcome, train, logical, openly, hater, hat
+     Score: support, donaldtrump, supporter, hillaryclinton, vote, bern, welcome, train, hate, hat
+Topic 48 Top Words:
+     Highest Prob: wall, build, foot, high, donaldtrump, pay, tall, big, yuge, happen
+     FREX: foot, wall, build, tall, yuge, ten, high, tower, budget, pay
+     Lift: tall, foot, wall, yuge, build, budget, ten, tower, park, stone
+     Score: tall, wall, build, foot, yuge, mexico, high, pay, tower, donaldtrump
+Topic 49 Top Words:
+     Highest Prob: gun, people, police, kill, shoot, protest, cop, right, black, truck
+     FREX: police, gun, cop, truck, officer, protest, shoot, riot, protester, arrest
+     Lift: truck, officer, cop, police, shooting, gun, protester, riot, protest, arrest
+     Score: truck, police, gun, cop, officer, protest, shoot, riot, arrest, kill
+Topic 50 Top Words:
+     Highest Prob: usa, die, dead, fidelcastro, communist, commie, year, kill, people, death
+     FREX: usa, fidelcastro, communist, commie, dead, die, dictator, communism, death, alive
+     Lift: usa, fidelcastro, commie, dictator, communist, communism, dead, regime, soviet, rot
+     Score: usa, fidelcastro, commie, communist, dead, die, communism, dictator, soviet, kill
+Topic 51 Top Words:
+     Highest Prob: american, people, flag, americans, willing, burn, pin, safety, mass, freedom
+     FREX: flag, american, willing, pin, americans, safety, burn, mass, african, freedom
+     Lift: willing, flag, pin, american, safety, african, americans, burn, mass, dear
+     Score: willing, american, flag, people, pin, americans, safety, burn, african, mass
+Topic 52 Top Words:
+     Highest Prob: win, lose, cry, election, tear, year, tired, liberal, feel, job
+     FREX: win, tear, cry, tired, winning, lose, salty, election, sick, salt
+     Lift: winning, salty, tear, win, tired, delicious, salt, cry, poster, sale
+     Score: winning, win, cry, tear, tired, election, lose, salty, victory, poster
+Topic 53 Top Words:
+     Highest Prob: yesterday, folk, today, bat, try, people, bitch, woman, donaldtrump, supporter
+     FREX: yesterday, bat, today, folk, tree, violence, tolerance, threaten, bitch, ugly
+     Lift: yesterday, bat, tree, tolerance, swing, today, folk, vice, tolerant, orange
+     Score: yesterday, bat, tree, folk, today, tolerance, mikepence, violence, woman, threaten
