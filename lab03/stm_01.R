@@ -22,7 +22,7 @@ library('GetoptLong')
 qq.options("cat_prefix" = function(x) format(Sys.time(), "\n[%H:%M:%S] "))
 
 # initialisation des parametres de l'experience
-s.source_file   <- 'fbget_sample_01.csv'
+s.source_file   <- 'fbget_sample_05.csv'
 s.data_path     <- qq("@{LAB_PATH}")
 s.experiment    <- '01'
 s.source        <- strsplit(s.source_file, "\\.")[[1]][1]
@@ -39,8 +39,12 @@ s.envt_filename <- qq("@{s.data_path}@{s.source}_@{s.experiment}.RData")
 qqcat("Load data from @{s.input_file}")
 
 # Chargement du corpus dans une dataframe
-s.max_rows <- 5000
-df <- read.csv(s.input_file, nrows = s.max_rows)
+# s.max_rows <- 5000
+
+# df <- read.csv(s.input_file)
+# df <- read.csv(s.input_file, encoding="UTF-8", nrows = 500)
+
+df <- read.csv(s.input_file, encoding="UTF-8")
 
 # combien de rows
 qqcat("dimensions:")
@@ -48,18 +52,22 @@ dim(df)
 
 # Vérifier le contenu
 qqcat(" 2 premiers paragraphes")
-df$messages[0:2]
+df$message_clean[0:2]
 
 # ------------------------------------------------------------------------------
 # 1) pre process the text with basic NLP massaging
 # ------------------------------------------------------------------------------
 qqcat("pre processing\n")
-processed <- textProcessor(df[,'message'],
+# enlever les rows vide
+cond      <- (df[,'message_clean'] != '')
+df        <- df[cond,]
+
+processed <- textProcessor(df[,'message_clean'],
                            language         = "en",
                            lowercase        = TRUE,
                            removestopwords  = TRUE,
                            # customstopwords  = c('des'),
-                           removenumbers    = TRUE,
+                           removenumbers    = FALSE,
                            removepunctuation = FALSE,
                            wordLengths      = c(3,Inf),
                            striphtml        = TRUE,
